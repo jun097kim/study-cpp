@@ -16,6 +16,7 @@
         "ostream": "cpp",
         "__bit_reference": "cpp",
         "cstring": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "iosfwd": "cpp"
     }
 }
