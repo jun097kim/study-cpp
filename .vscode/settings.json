@@ -17,6 +17,10 @@
         "__bit_reference": "cpp",
         "cstring": "cpp",
         "ios": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "bitset": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "utility": "cpp"
     }
 }
