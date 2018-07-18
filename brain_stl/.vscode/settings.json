@@ -16,6 +16,15 @@
         "string_view": "cpp",
         "__hash_table": "cpp",
         "initializer_list": "cpp",
-        "unordered_map": "cpp"
-    }
+        "unordered_map": "cpp",
+        "bitset": "cpp",
+        "memory": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "stack": "cpp",
+        "__config": "cpp",
+        "locale": "cpp",
+        "utility": "cpp"
+    },
+    "editor.tabSize": 4
 }
